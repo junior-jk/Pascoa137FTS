@@ -1,0 +1,14 @@
+
+user story
+
+Ao acessar o site da Eveclass e clico no botao Começar Agora
+sou redirecionado ao painel de todos os cursos onde vou 
+pesquisar o curso que tenho interesse que é o indrodução ao java.
+
+
+User story em Gherkin:
+
+Dado que ao acessar o site da Eveclass;
+Quando clico no botao comecar agora;
+E sou redirecionado ao painel de todos os cursos;
+Entao visualizo o curso desejado; 

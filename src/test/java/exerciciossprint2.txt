@@ -1,0 +1,61 @@
+
+JUNIOR 15 22 17
+Exemplos:
+
+User story sem gherkin:
+
+Uma vez que estou logado e acesso a página Seções, no menu superior Conteúdos, ao adicionar uma nova seção e preencher os campos, basta salvar para criar a nova seção
+
+User story em  gherkin:
+
+Dado  que acesso a página Seções, no menu superior Conteúdos
+Quando clico em +Nova Seção
+E preencho o formulário 
+E clico em salvar
+Então a seção será criada
+
+
+
+
+Uma vez que estou logado e acesso a página Admin no menu superior Conteúdos e percorro os itens da  
+minha conta e visualizo o menu Minhas Atividades logo aparecera procurar atividades.
+
+
+Dado que acesso a página Admin no menu Superior Conteudos,
+Quando clico em minha conta,
+E percorro os intens da lista, 
+E clico em Minhas Atividades,
+Entao será exibido procurar atividades, 
+
+
+Uma vez que estou logado e acesso a página Admin no menu superior Conteúdos e percorro os itens da  
+minha conta e clico no menu Transações sera apresentado o curso adquirido.
+
+
+Dado que acesso a página Admin no menu Superior Conteudos,
+Quando clico em minha conta,
+E percorro os intens da lista, 
+E clico em Transações,
+Entao será exibido o curso adquirido, 
+
+
+Uma vez que estou logado e acesso a página Admin no menu superior Conteúdos e clico em  
+minha conta/perfil e percorro os intens da lista e seleciono o Alterar Acesso vai ter a opção
+Mudar Email e Mudar Senha.
+
+
+Dado que acesso a página Admin,
+Quando Clico em minha Conta/Perfil,
+E percorro os intens da lista e seleciono o menu Alterar Acesso,
+Entao será exibido a opção Mudar Email e Mudar Senha,
+
+
+
+
+
+
+
+
+
+
+
